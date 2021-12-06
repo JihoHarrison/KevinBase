@@ -17,8 +17,8 @@ android {
         consumerProguardFiles "consumer-rules.pro"
     }
 
-    viewBinding {
-        enabled = true
+    buildFeatures{
+        viewBinding = true
     }
 
     buildTypes {
