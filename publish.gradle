@@ -18,9 +18,9 @@ bintray {
 
     pkg {
         repo = rootProject.ext.repositoryName
-        name = 'kevinBase'
-        userOrg = 'jihoKevin'
-        desc = 'kevin base library'
+        name = 'funin'
+        userOrg = 'jihokevin'
+        desc = 'Funin base library'
         licenses = ['Apache-2.0']
 
         vcsUrl = rootProject.ext.gitHubRepoUrl

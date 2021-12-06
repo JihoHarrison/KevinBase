@@ -2,8 +2,8 @@ ext {
     libraryVersionName = '0.0.1-beta2'
 
     // Bintray setting info
-    repositoryName = 'kevinBase'
-    packageName = 'com.funin.base.kevinBase'
+    repositoryName = 'KevinBase'
+    packageName = 'com.funin.base.funinbase'
 
     description = 'funin base library'
 
