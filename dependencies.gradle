@@ -2,14 +2,14 @@ ext {
     libraryVersionName = '0.0.1-beta2'
 
     // Bintray setting info
-    repositoryName = 'KevinBase'
-    packageName = 'com.kevin.base.funinbase'
+    repositoryName = 'funin'
+    packageName = 'com.funin.base.funinbase'
 
     description = 'funin base library'
 
-    websiteUrl = 'https://github.com/JihoKevin/KevinBase'
-    gitHubRepoUrl = 'https://github.com/JihoKevin/KevinBase.git'
+    websiteUrl = 'https://github.com/mkSpace/funin-base'
+    gitHubRepoUrl = 'https://github.com/mkSpace/funin-base.git'
 
-    gitHubRepo = 'JihoKevin/KevinBase'
+    gitHubRepo = 'mkSpace/funin-base'
     gitHubReleaseNotesFile = 'README.md'
 }

@@ -19,7 +19,7 @@ bintray {
     pkg {
         repo = rootProject.ext.repositoryName
         name = 'funin'
-        userOrg = 'jihokevin'
+        userOrg = 'mkspace'
         desc = 'Funin base library'
         licenses = ['Apache-2.0']
 
