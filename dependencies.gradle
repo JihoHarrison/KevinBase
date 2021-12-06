@@ -3,7 +3,7 @@ ext {
 
     // Bintray setting info
     repositoryName = 'KevinBase'
-    packageName = 'com.funin.base.funinbase'
+    packageName = 'com.kevin.base.funinbase'
 
     description = 'funin base library'
 
