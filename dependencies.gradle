@@ -7,9 +7,9 @@ ext {
 
     description = 'funin base library'
 
-    websiteUrl = 'https://github.com/mkSpace/funin-base'
-    gitHubRepoUrl = 'https://github.com/mkSpace/funin-base.git'
+    websiteUrl = 'https://github.com/JihoKevin/KevinBase'
+    gitHubRepoUrl = 'https://github.com/JihoKevin/KevinBase.git'
 
-    gitHubRepo = 'mkSpace/funin-base'
+    gitHubRepo = 'jihoKevin/funin-base'
     gitHubReleaseNotesFile = 'README.md'
 }
